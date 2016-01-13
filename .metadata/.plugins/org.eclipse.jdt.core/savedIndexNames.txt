@@ -1,0 +1,21 @@
+INDEX VERSION 1.127+E:\Lernen\ESIGELEC\3eme_annee\ProgrammationBigData\BigData_TP1\.metadata\.plugins\org.eclipse.jdt.core
+945785808.index
+160329750.index
+3134581125.index
+953693092.index
+542094340.index
+1423308195.index
+1585219297.index
+366946514.index
+3880452605.index
+1839175736.index
+3702321502.index
+2498863661.index
+2599318389.index
+3707835226.index
+1381881658.index
+1366028943.index
+3832685895.index
+2407136725.index
+2334360538.index
+1799117297.index
